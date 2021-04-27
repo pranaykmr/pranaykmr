@@ -10,41 +10,54 @@ I'm Pranay, final year graduate student at Syracuse University and Incoming Soft
 
 - 👀  I’m interested in solving challenging coding problems and learning new technologies
 - 💬  Hobbies : Snooker and Writing Blogs
--  ⚡  Languages: Javascript, Python3, C#, SQL
 
 ### - Languages and Tools...
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg"
-    alt="Twitter"
-    style="vertical-align: top; margin: 4px"
-  /><img
-    src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg"
-    alt="Twitter"
-    style="vertical-align: top; margin: 4px"
-  /><img
-    src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"
-    alt="Twitter"
-    style="vertical-align: top; margin: 4px"
-  /><img
-    src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg"
-    alt="Twitter"
-    style="vertical-align: top; margin: 4px"
-  /><img
-    src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg"
-    alt="Twitter"
-    style="vertical-align: top; margin: 4px"
-  /><img
-    src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg"
-    alt="Twitter"
-    style="vertical-align: top; margin: 4px"
-  /><img
-    src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg"
-    alt="Twitter"
-    style="vertical-align: top; margin: 4px"
-  />
+  <a href="#"
+    ><img
+      src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg"
+      alt="Twitter"
+      style="vertical-align: top; margin: 4px"
+  /></a>
+  <a href="#"
+    ><img
+      src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg"
+      alt="Twitter"
+      style="vertical-align: top; margin: 4px"
+  /></a>
+  <a href="#"
+    ><img
+      src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"
+      alt="Twitter"
+      style="vertical-align: top; margin: 4px"
+  /></a>
+  <a href="#"
+    ><img
+      src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg"
+      alt="Twitter"
+      style="vertical-align: top; margin: 4px"
+  /></a>
+  <a href="#"
+    ><img
+      src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg"
+      alt="Twitter"
+      style="vertical-align: top; margin: 4px"
+  /></a>
+  <a href="#"
+    ><img
+      src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg"
+      alt="Twitter"
+      style="vertical-align: top; margin: 4px"
+  /></a>
+  <a href="#"
+    ><img
+      src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg"
+      alt="Twitter"
+      style="vertical-align: top; margin: 4px"
+  /></a>
 </p>
+
 
 
 
