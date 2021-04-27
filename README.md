@@ -1,7 +1,8 @@
 # Pranay Kumar Verma
 - 📫 Reach me: 
-- [Personal Webiste](https://pranaykmr.github.io)
+- [Email](pranay.kmr@live.com)
 - [LinkedIn](https://www.linkedin.com/in/pranaykumarverma/)
+- [Personal Webiste](https://pranaykmr.github.io)
 
 # Hii👋, 
 I'm Pranay, final year graduate student at Syracuse University and Incoming Software Development Engineer at Amazon. 
