@@ -16,14 +16,6 @@ I'm Pranay, final year graduate student at Syracuse University and Incoming Soft
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg"
-    alt="Twitter"
-    style="vertical-align: top; margin: 4px"
-  /><img
-    src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"
-    alt="Twitter"
-    style="vertical-align: top; margin: 4px"
-  /><img
     src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg"
     alt="Twitter"
     style="vertical-align: top; margin: 4px"
@@ -32,15 +24,19 @@ I'm Pranay, final year graduate student at Syracuse University and Incoming Soft
     alt="Twitter"
     style="vertical-align: top; margin: 4px"
   /><img
+    src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"
+    alt="Twitter"
+    style="vertical-align: top; margin: 4px"
+  /><img
+    src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg"
+    alt="Twitter"
+    style="vertical-align: top; margin: 4px"
+  /><img
     src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg"
     alt="Twitter"
     style="vertical-align: top; margin: 4px"
   /><img
     src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg"
-    alt="Twitter"
-    style="vertical-align: top; margin: 4px"
-  /><img
-    src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg"
     alt="Twitter"
     style="vertical-align: top; margin: 4px"
   /><img
