@@ -6,10 +6,7 @@
 
 ### Hii👋, 
 I'm Pranay, final year graduate student at Syracuse University and Incoming Software Development Engineer at Amazon. 
-
-
-- 👀  I’m interested in solving challenging coding problems and learning new technologies
-- 💬  Hobbies : Snooker and Writing Blogs
+I’m interested in solving challenging coding problems and learning new technologies.
 
 ### - Languages and Tools...
 
