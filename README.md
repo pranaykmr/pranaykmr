@@ -1,5 +1,5 @@
 # Pranay Kumar Verma
-- 📫 Reach me: 
+📫 Reach me: 
 - [Email](mailto:pranay.kmr@live.com)
 - [LinkedIn](https://www.linkedin.com/in/pranaykumarverma/)
 - [Personal Webiste](https://pranaykmr.github.io)
