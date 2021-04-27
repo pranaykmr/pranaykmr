@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Pranay
-- 👀 I’m interested in solving challenging coding problems and learning new technologies
-- 🌱 I’m currently in the final semester of my Masters Degree at Syracuse Univeristy ...
-- 📫 How to reach me https://pranaykmr.github.io
 # Pranay Kumar Verma
 - 📫 Reach me: 
 - [Personal Webiste](https://pranaykmr.github.io)
