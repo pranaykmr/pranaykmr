@@ -9,9 +9,9 @@ I'm Pranay, final year graduate student at Syracuse University and Incoming Soft
 I’m interested in solving challenging coding problems and learning new technologies.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranaykmr&count_private=true&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranaykmr&count_private=true&theme=dark&show_icons=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranaykmr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranaykmr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)]
 
 
 ### - Languages and Tools...
