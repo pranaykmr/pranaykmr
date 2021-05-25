@@ -8,6 +8,9 @@
 I'm Pranay, final year graduate student at Syracuse University and Incoming Software Development Engineer at Amazon. 
 I’m interested in solving challenging coding problems and learning new technologies.
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranaykmr)](https://github.com/anuraghazra/github-readme-stats)
+
 ### - Languages and Tools...
 
 <p align="center">
