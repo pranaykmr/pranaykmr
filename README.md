@@ -19,6 +19,12 @@ I’m interested in solving challenging coding problems and learning new technol
 <p align="center">
   <a href="#"
     ><img
+      src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/java.svg"
+      alt="Twitter"
+      style="vertical-align: top; margin: 4px"
+  /></a>
+  <a href="#"
+    ><img
       src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg"
       alt="Twitter"
       style="vertical-align: top; margin: 4px"
